@@ -45,6 +45,7 @@
 
 void VRPN_CALLBACK track_target(void*, const vrpn_TRACKERCB);
 
+
 double sign(double value)
 {
     return value >= 0 ? 1.0 : -1.0;

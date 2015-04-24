@@ -1,0 +1,6 @@
+<!-- nodes and parameters for reflex -->
+<launch>
+
+  <node name="prova" pkg="ros_vrpn_client"       type="ros_vrpn_hand"        output="screen"  respawn="true"/>
+
+</launch>
